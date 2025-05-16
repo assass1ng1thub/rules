@@ -1,0 +1,16 @@
+[bypass_all]
+[bypass_list]
+*.ru
+*.su
+*.рф
+# IP-подсети России (пример)
+2.56.0.0/13
+5.1.48.0/20
+31.134.0.0/15
+... (добавьте все CIDR РФ)
+# Домены вручную
+yandex.ru
+mail.ru
+*.sberbank.ru
+# Импорт списков (если поддерживается)
+#IMPORT_URL <https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ru/ipv4-aggregated.txt>
