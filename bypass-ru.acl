@@ -1,4 +1,4 @@
-[proxy_all]
+[bypass_all]
 
 [proxy_list]
 0.0.0.0/8
